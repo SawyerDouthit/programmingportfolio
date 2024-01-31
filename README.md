@@ -22,7 +22,7 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 
 ### DriveCars
 
-![Gamplay]
+![Gamplay](https://github.com/SawyerDouthit/programmingportfolio/blob/main/images/Screenshot%202024-01-31%20at%2012.45.53%20PM.png)
 
 [Source](https://github.com/SawyerDouthit/programmingportfolio/blob/main/src/DriveCars.zip)
 
