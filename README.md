@@ -10,7 +10,7 @@ Skyline High SChool Computer Programming 1-2
 ### SpaceGame
 OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 
-![Gamplay]()
+![Gamplay](images/sg1.png)
 
 [Source Code]()
 
