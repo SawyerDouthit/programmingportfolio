@@ -28,6 +28,6 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 
 ### Timeline
 
-![ScreenShot]()
+![ScreenShot](https://github.com/SawyerDouthit/programmingportfolio/blob/main/images/Timeline.png?raw=true)
 
 [Source Code]()
