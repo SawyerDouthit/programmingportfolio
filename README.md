@@ -1,5 +1,5 @@
 # Sawyer Douthit Computer Programming Portfolio 2023-2024
-Skyline High SChool Computer Programming 1-2
+Skyline High School Computer Programming 1-2
 
 ## USOE Certifications
 
