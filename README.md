@@ -15,18 +15,21 @@ OOP Graphical Game with sound and keyboard/mouse/numberpad listeners.
 [Source Code](https://github.com/SawyerDouthit/programmingportfolio/blob/main/src/SpaceGame1.zip)
 
 ### Calculator
+OOP Graphical Working Calculater with buttons that change colors when pressed
 
 ![ScreenShot](https://github.com/SawyerDouthit/programmingportfolio/blob/main/images/Clac.png)
 
 [Source Code](https://github.com/SawyerDouthit/programmingportfolio/blob/main/src/Calculator.zip)
 
 ### DriveCars
+OOP Graphical Cars That move along the screen
 
 ![Gamplay](https://github.com/SawyerDouthit/programmingportfolio/blob/main/images/Screenshot%202024-01-31%20at%2012.45.53%20PM.png)
 
 [Source](https://github.com/SawyerDouthit/programmingportfolio/blob/main/src/DriveCars.zip)
 
 ### Timeline
+OOP Graphical Timeline witch shoes dates 
 
 ![ScreenShot](https://github.com/SawyerDouthit/programmingportfolio/blob/main/images/Timeline.png?raw=true)
 
